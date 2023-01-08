@@ -1,0 +1,49 @@
+
+div {
+  text-align: center;
+  height: 500px
+}
+h1 {
+   color:#08D9D6;
+  font-size:70px;
+  margin: 500px 0 auto 0a auto;
+  line-height: 2
+font-family: serif;
+}
+p {
+  font-size: 30px;
+  color:#08D9D6;
+}
+
+h2 {
+color: #08D9D6;
+font-weight: normal;
+}
+
+
+.top-container{
+    background-color:  #E4F9F5;
+
+    height: 700px;
+
+}
+
+
+.pro{
+    text-decoration:underline;
+}
+img {top: 200px;}
+
+.bottom-cloud {
+    position: absolute;
+
+    margin-left: -400px;
+}
+
+.top-cloud{
+   margin-top: 0;
+   margin-left: 700px;
+}
+.mountain{
+   margin-top: 100px;
+}
